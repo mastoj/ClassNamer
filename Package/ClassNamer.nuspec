@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ClassNamer</id>
+    <version>1.0</version>
+    <title />
+    <authors>Tomas Jansson</authors>
+    <owners />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PowerShell extension to ask www.classnamer.com for a random class name. We have all been in the situation when we can't come up with a good class name :).</description>
+    <summary />
+  </metadata>
+</package>
